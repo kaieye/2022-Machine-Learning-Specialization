@@ -4,7 +4,7 @@
 吴恩达2022新版机器学习 machine learning specialization
 课程官网：https://www.coursera.org/specializations/machine-learning-introduction  
 
-课程代码及测验内容将在7.1更新完毕  
+课程代码及测验内容已更新完毕  
 欢迎pull request，无论是补充学习文件还是优化md笔记  
 
 ## 课程大纲
