@@ -9,9 +9,9 @@
 
 ## 课程大纲
 Machine learning specialization课程共分为三部分  
-第一部分：Supervised Machine Learning: Regression and Classification  
-第二部分：Advanced Learning Algorithms和Unsupervised Learning  
-第三部分：Recommenders, Reinforcement Learning  
+第一部分：Supervised Machine Learning::Regression and Classification  
+第二部分：Advanced Learning Algorithms
+第三部分：Unsupervised Learning:Recommenders, Reinforcement Learning  
 
-目前上传的是第一部分
+目前上传的是第二部分
 
