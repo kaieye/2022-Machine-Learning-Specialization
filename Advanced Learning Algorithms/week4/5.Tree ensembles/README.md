@@ -1,0 +1,1 @@
+all video,no quiz
