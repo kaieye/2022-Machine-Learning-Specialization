@@ -30,9 +30,3 @@ Machine learning specialization is divided into 3 parts
 
 The second part is currently Uploaded  
 the slides of course1 have been updated
-
-
-
-  
-
-test
