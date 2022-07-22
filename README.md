@@ -30,3 +30,13 @@ Machine learning specialization is divided into 3 parts
 
 The second part is currently Uploaded  
 the slides of course1 have been updated
+
+## 环境配置
+
+按照操作系统类型安装python（官方使用的环境为3.7.6），安装方式各异。安装成功后在cmd/bash中定位到该文件夹，并使用如下命令安装依赖。
+
+```text
+pip install -r requirements.txt
+```
+
+mac/linux用户需将pip切换成pip3
