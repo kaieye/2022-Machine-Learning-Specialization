@@ -14,7 +14,7 @@ Machine learning specialization课程共分为三部分
 - 第二部分：Advanced Learning Algorithms  
 - 第三部分：Unsupervised Learning: Recommenders, Reinforcement Learning   
 
-目前上传的是第二部分,course1的sildes(ppt)已更新完毕
+课程slides地址：https://www.deeplearning.ai/courses/machine-learning-specialization/?utm_campaign=mls-video-series&utm_medium=video&utm_source=youtube#course-slides
 
 Machine Learning Specialization by Andrew Ng in 2022  
 Course website:https://www.coursera.org/specializations/machine-learning-introduction    
@@ -29,7 +29,7 @@ Machine learning specialization is divided into 3 parts
 - Part 3：Unsupervised Learning: Recommenders, Reinforcement Learning 
 
 The second part is currently Uploaded  
-the slides of course 1 have been updated
+slides:https://www.deeplearning.ai/courses/machine-learning-specialization/?utm_campaign=mls-video-series&utm_medium=video&utm_source=youtube#course-slides
 
 ## 环境配置
 
