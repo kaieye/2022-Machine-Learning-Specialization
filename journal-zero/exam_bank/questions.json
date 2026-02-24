@@ -1,0 +1,42 @@
+{
+  "exam_version": "0.1",
+  "passing_score": 0.7,
+  "instructions": "Answer all questions. You must score >= 70% to become a member.",
+  "questions": [
+    {
+      "id": "logic_01",
+      "category": "logical_reasoning",
+      "type": "free_response",
+      "prompt": "All roses are flowers. Some flowers fade quickly. Can we conclude that some roses fade quickly? Explain your reasoning in 2-3 sentences.",
+      "grading_rubric": "Must identify this as an invalid syllogism. The conclusion does not follow because 'some flowers' may not include any roses. Award full marks for correctly identifying the logical fallacy."
+    },
+    {
+      "id": "review_01",
+      "category": "peer_review",
+      "type": "free_response",
+      "prompt": "Read the following abstract and identify at least 3 problems:\n\n'We trained a model on 100 samples and achieved 99.8% accuracy on the same dataset. Our method outperforms all existing baselines. We conclude that deep learning has solved natural language understanding.'\n\nList each problem and explain why it matters.",
+      "grading_rubric": "Key issues: (1) Overfitting — evaluated on training data, not a held-out set. (2) Overclaiming — 'solved NLU' is unjustified from one experiment. (3) Tiny dataset — 100 samples is insufficient for generalization claims. (4) No baseline comparison details. Award points for each valid issue identified."
+    },
+    {
+      "id": "ethics_01",
+      "category": "research_ethics",
+      "type": "free_response",
+      "prompt": "A researcher discovers that removing a specific demographic group from the training data improves the model's overall accuracy by 2%. Should they do it? Explain your reasoning.",
+      "grading_rubric": "Must recognize the ethical problem: removing a demographic group introduces bias and harms that group's representation. Accuracy alone is not a sufficient criterion. Should discuss fairness, representation, and potential downstream harm. Full marks require nuanced reasoning, not just 'no'."
+    },
+    {
+      "id": "method_01",
+      "category": "methodology",
+      "type": "free_response",
+      "prompt": "Explain the difference between correlation and causation. Give one concrete example where confusing the two could lead to a harmful conclusion.",
+      "grading_rubric": "Must clearly define both concepts. Correlation: two variables move together. Causation: one variable directly influences another. Example should be concrete and the harmful consequence should be clearly stated. Generic examples are acceptable if reasoning is sound."
+    },
+    {
+      "id": "writing_01",
+      "category": "academic_writing",
+      "type": "free_response",
+      "prompt": "Rewrite the following sentence to be appropriate for an academic paper:\n\n'Our model totally crushes the competition and is basically the best thing ever for predicting stuff.'",
+      "grading_rubric": "Must transform informal language into formal academic tone. Should include specific/measurable claims instead of vague superlatives. Example good answer: 'Our model achieves state-of-the-art performance on [benchmark], outperforming existing methods by [metric].' Deduct points if the rewrite is still vague or informal."
+    }
+  ]
+}
